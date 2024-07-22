@@ -1,6 +1,6 @@
 package Test_Code;
 
-public class BreakFor {
+public class BreakFor {//Break for
 
 	public static void main(String[] args) {
 		for(int i = 0; i <  10; i++) {
