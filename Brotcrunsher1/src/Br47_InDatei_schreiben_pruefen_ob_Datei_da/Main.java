@@ -9,7 +9,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);//Klasse für zum Einlesen der User EIngaben
 		System.out.println("Welche Datei soll gelesen werden?");
-		String dateiname = s.next();//Schreibt den Dateiname in die String Variable dateiname
+		String dateiname = s.next();//Schreibt die User Eingabe bzw. Dateiname in die String Variable dateiname
 		String dateiInhalt = "";
 		Formatter dateiErsteller = null;//null heißt -> Zeigt auf nichts!  --> LOKALE VARIABLE 
 		File f = new File("C://test//"+dateiname+" .txt");//Konstruktor - Wird ein neues Objekt von Type File = f mit den Parameter generiert. 

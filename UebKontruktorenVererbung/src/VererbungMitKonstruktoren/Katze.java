@@ -8,10 +8,10 @@ public class Katze extends Lebewesen{
 		super(name,alter,farbe);
 		this.schnurren = schnurren;
 		
-		System.out.println("Katzen-Konstruktor.....");
+		System.out.println("Katzen-Konstruktor...Katzenklasse..");
 	}
 	
 	public void schnurren() {
-		System.out.println("Schnurr......");
+		System.out.println("Schnurr...Katzenklasse..Mehtode schnurren()");
 	}
 }

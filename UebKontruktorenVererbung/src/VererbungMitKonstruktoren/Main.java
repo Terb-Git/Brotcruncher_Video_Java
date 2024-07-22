@@ -6,7 +6,7 @@ public class Main {
 		Hund hundobjekt1 = new Hund("Bello", 15, "SW","bellen");
 		Katze katzenobjekt1 = new Katze("Bella",102,"Hellblond","schnurren");
 		
-		System.out.println("\n Katzenname: \n" +katzenobjekt1.name+ "\n" + "Katzenalter: " + katzenobjekt1.alter);
+		System.out.println("\n Katzenname: \n" +katzenobjekt1.name + "\n" + "Katzenalter: " + katzenobjekt1.alter);
 		katzenobjekt1.schnurren();//Einfach die Methode aufrufen
 		katzenobjekt1.sex();
 		

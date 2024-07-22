@@ -14,6 +14,6 @@ public class Lebewesen {
 	}
 	
 	public void sex() {
-		System.out.println("Kann sich fortpflanzen....");
+		System.out.println("Kann sich fortpflanzen...LebenwesenKlasse....methode sex()");
 }
 }

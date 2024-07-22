@@ -6,7 +6,11 @@ public class RückgabeDoubleDivison {
 		return (float) summe;
 	}
 public static void main(String [] args) {
-	System.out.println(methode(7.8, 2.9));
+	double a = 7.5;
+	double b = 3.0;
+	float ergebnis = methode (7.5,3.0); 
+	
+	System.out.println(ergebnis);
 	
 }
 }
