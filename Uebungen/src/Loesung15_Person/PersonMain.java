@@ -1,6 +1,19 @@
-package Loesung15;
-
+package Loesung15_Person;
+/**
+ * 
+ * @author thors
+ * @version
+ * 
+ */
 public class PersonMain {
+	
+	/**
+	 * 
+	 * 
+	 * @param args Parameter Übergabe
+	 * 
+	 * 
+	 */
 
 	public static void main(String[] args) {
 		

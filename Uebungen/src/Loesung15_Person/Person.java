@@ -1,4 +1,4 @@
-package Loesung15;
+package Loesung15_Person;
 
 public class Person {
 	private String name, vorname;

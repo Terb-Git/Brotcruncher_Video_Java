@@ -1,4 +1,4 @@
-package Loesung15;
+package Loesung15_Person;
 
 public class Adresse {
 private String strasse, plz, ort, telefon, email;
